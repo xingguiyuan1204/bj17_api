@@ -1,0 +1,9 @@
+[
+  "scripts/test01_mp.py::TestMp::()::test01_mp_login[13812345678-246810]",
+  "scripts/test01_mp.py::TestMp::()::test02_mp_article[bj-test17-inter001-\\u4eca\\u5929\\u70e4\\u4e73\\u732a\\uff01-7-\\u6570\\u636e\\u5e93]",
+  "scripts/test02_mis.py::TestMis::()::test01_mis_login",
+  "scripts/test02_mis.py::TestMis::()::test02_mis_search",
+  "scripts/test02_mis.py::TestMis::()::test03_mis_audit",
+  "scripts/test03_app.py::TestAPP::()::test01_app_login",
+  "scripts/test03_app.py::TestAPP::()::test02_app_search"
+]

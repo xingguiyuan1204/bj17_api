@@ -1,0 +1,98 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1578910023024" stop="1578910024178">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1578910023024" status="passed" stop="1578910023063">
+      <name>test01_mp.TestMp.test01_mp_login[13812345678-246810]</name>
+      <attachments>
+        <attachment source="81fbbd1d-7bf5-49dc-8465-aa78e7a4bc1b-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="30468-MainThread"/>
+        <label name="host" value="PC-20151030VSIJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578910023066" status="passed" stop="1578910023106">
+      <name>test01_mp.TestMp.test02_mp_article[bj-test17-inter001-\u4eca\u5929\u70e4\u4e73\u732a\uff01-7-\u6570\u636e\u5e93]</name>
+      <attachments>
+        <attachment source="4afb5fce-0a9b-4591-9196-78b93e07679d-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="30468-MainThread"/>
+        <label name="host" value="PC-20151030VSIJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578910023109" status="passed" stop="1578910023241">
+      <name>test02_mis.TestMis.test01_mis_login</name>
+      <attachments>
+        <attachment source="1fcc88dc-8deb-4b6a-9453-9173194bda9a-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="30468-MainThread"/>
+        <label name="host" value="PC-20151030VSIJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578910023246" status="passed" stop="1578910023659">
+      <name>test02_mis.TestMis.test02_mis_search</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="30468-MainThread"/>
+        <label name="host" value="PC-20151030VSIJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578910023660" status="passed" stop="1578910023705">
+      <name>test02_mis.TestMis.test03_mis_audit</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="30468-MainThread"/>
+        <label name="host" value="PC-20151030VSIJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578910023707" status="passed" stop="1578910024039">
+      <name>test03_app.TestAPP.test01_app_login</name>
+      <attachments>
+        <attachment source="a8fec648-066d-45ea-b9ba-ab0797491252-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="30468-MainThread"/>
+        <label name="host" value="PC-20151030VSIJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1578910024042" status="passed" stop="1578910024178">
+      <name>test03_app.TestAPP.test02_app_search</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="30468-MainThread"/>
+        <label name="host" value="PC-20151030VSIJ"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

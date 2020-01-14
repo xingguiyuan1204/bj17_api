@@ -1,0 +1,2 @@
+tools.py                    12 INFO     正在提取token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1Nzg5MTczMjIsImFkbWluaXN0cmF0b3JfaWQiOjIsInJlZnJlc2giOmZhbHNlfQ.nTMB6J83FtOLhom0bKRo_ZF8_glT4PLvpSQC6HblYes
+tools.py                    15 INFO     合并的api.headers为{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1Nzg5MTczMjIsImFkbWluaXN0cmF0b3JfaWQiOjIsInJlZnJlc2giOmZhbHNlfQ.nTMB6J83FtOLhom0bKRo_ZF8_glT4PLvpSQC6HblYes'}
